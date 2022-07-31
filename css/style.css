@@ -1,0 +1,20 @@
+body{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Arial';
+}
+
+section{
+    width: 400px;
+    margin: 0 auto;
+    padding: 100px;
+}
+
+section h3{
+    padding: 10px 20px;
+}
+
+section p {
+    padding:10px;
+}
